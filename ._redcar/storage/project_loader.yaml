@@ -1,3 +1,6 @@
 --- 
 open_files: 
   - Gemfile
+  - config/routes.rb
+  - app/views/users/index.json.jbuilder
+  - app/views/users/index.html.erb
